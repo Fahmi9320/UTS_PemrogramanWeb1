@@ -27,4 +27,4 @@
 ### Something else here ###
 ![Cuplikan layar 2024-11-05 160754](https://github.com/user-attachments/assets/7acbe45f-44e6-4e27-a8ce-8f3a2dcbaabc)
 
-# Kode #
+# Fin #
